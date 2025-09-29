@@ -29,4 +29,4 @@ ages[c(2,4)]
 #c.
 ages[-1]
 #all the value except 34
-
+#
