@@ -91,6 +91,7 @@ one.eight2
 arrayval <-c(1,2,3,4,5,6,7,8,9,0,3,4,5,1)
 arraydata <-array(rep(arrayval, 2), dim=c(2,4,3))
 arraydata
+#
 
 #3b
 dim(arraydata)
